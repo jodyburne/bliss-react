@@ -1,4 +1,4 @@
-#Bliss
+# Bliss
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,8 +11,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-#### Technologies used
--React
--Antd
+#### Technologies used:
+- React
+- Antd
 
 Cheers
